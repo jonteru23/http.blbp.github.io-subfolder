@@ -1,0 +1,376 @@
+html{
+	scroll-behavior: smooth;
+}
+body{
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+
+}
+nav{
+	width: 100%;
+	background:/* #262626;*/ #126180;
+  overflow: hidden;
+	position: fixed;
+	top: 0;    z-index: 10;
+}
+ul{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+li{
+	float: right;
+}
+a{
+	padding: 20px;
+  font-size: 15px;
+	width: 100px;
+	display: block;
+	text-decoration: none;
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#section1{
+
+}
+
+#section2{
+	margin-top: -30px;
+	height: :  1000%;
+	display: inline-block;
+	width: 100%;
+	background:white;
+	margin-bottom: 50px;	
+}
+
+#section3{
+margin-top: 100px;
+}
+
+#section4{
+	margin-top: 450px;
+}
+
+#section5{
+  margin-top: 0px;
+  height: :700px;
+  display: inline-block;
+  width: 100%;
+  overflow: hidden;
+}
+
+#section6{
+  margin-top: 50px;
+  height: :700px;
+  display: inline-block;
+  width: 100%;
+  overflow: hidden;
+}
+
+#section7{
+  background: rgb(141,78,133,0.5);
+  margin-top: -500px;
+  height: :700px;
+  display: inline-block;
+  width: 100%;
+  overflow: hidden;
+}
+/*video*/
+#videoimg{
+	height: :-100px;
+	display: inline-block;
+	width: 100%;
+	background:#b784a7;
+	margin-bottom: 50px;
+
+}
+#cont1{
+  margin-top: 80px;
+  float: left;
+  margin-left: 37px;
+  width: 300px;
+  height: 300px;
+  background: pink;
+  border-radius: 20px;
+}
+#cont2{
+    margin-top: 80px;
+  float: left;
+  margin-left: 20px;
+  width: 300px;
+  height: 300px;
+  background: pink;
+  border-radius: 20px;
+}
+#cont3{
+  margin-top: 80px;
+  float: right;
+  margin-right: 30px;
+  width: 300px;
+  height: 300px;
+  background: pink;
+  border-radius: 20px;
+}
+#ban1{
+margin-top:-30px;
+width:1200px;
+height: 850px;
+margin-left:100px;
+font-size: 50px;
+text-align: justify;
+font-style: Candara;
+float:left;
+margin-bottom:100px;
+}
+
+#ban2{
+/*background: url('HOME/preview4.jpg ') no-repeat;*/
+width:1025px;
+height:600px;
+margin-top: -80px;
+margin-left:50px;
+font-size: 50px;
+font-style: Candara;
+float:center;
+margin-bottom:100px;
+}
+
+
+#ban3{
+margin-top:-50px;
+width:400px;
+height: 200px;
+margin-left:15px;
+float:left;
+opacity:1.0;
+}
+
+#ban4{
+margin-top:50px;
+width:400px;
+height: 200px;
+margin-left:15px;
+float:left;
+opacity:1.0;
+}
+
+#ban5{
+margin-top:50px;
+width:400px;
+height: 200px;
+margin-left:15px;
+float:left;
+opacity:1.0;
+}
+
+#about{
+ width:550px;
+height: 500px;
+margin-left:15px;
+float:center;
+opacity:1.0;
+margin-top: 200px; 
+}
+
+#ban6{
+width:550px;
+height: 500px;
+margin-left:15px;
+float:center;
+opacity:1.0;
+}
+#ban7{
+width:700px;
+height: 500px;
+margin-left:15px;
+float:center;
+opacity:1.0;
+/*//background: pink;*/
+}
+#ban10{
+margin-top: -350px;
+width:100%;
+height: 700px;
+font-size: 18px;
+margin-left:10px;
+float:center;
+opacity:1.0;
+/*//background: pink;*/
+}
+#ban11{
+  margin-top:800px;
+width:100%;
+height: 630px;
+font-size: 18px;
+margin-left:10px;
+float:center;
+opacity:1.0;
+/*//background: pink;*/
+}
+#ban12{
+width:100%;
+height: 580px;
+font-size: 18px;
+margin-left:10px;
+float:center;
+opacity:1.0;
+/*//background: pink;*/
+}
+/*zoom*/
+
+/*//background: pink;*/
+}
+#zoomA {
+  /* (A) OPTIONAL DIMENSIONS */
+  width:150px;
+  height: 150px;
+  float: center;
+ margin-top: -20px;
+border-radius: 20px;
+  /* (B) ANIMATE ZOOM */
+  /* ease | ease-in | ease-out | linear */
+  transition: transform ease-in-out 0.3s;
+}
+ 
+/* (C) ZOOM ON HOVER */
+#zoomA:hover { transform: scale(1.2); }
+
+#zoomB {
+  /* (A) OPTIONAL DIMENSIONS */
+  width:150px;
+  height: 150px;
+  float: center;
+ margin-top: -50px;
+border-radius: 20px;
+  /* (B) ANIMATE ZOOM */
+  /* ease | ease-in | ease-out | linear */
+  transition: transform ease-in-out 0.3s;
+}
+ 
+/* (C) ZOOM ON HOVER */
+#zoomB:hover { transform: scale(1.2); }
+
+#zoomC {
+  /* (A) OPTIONAL DIMENSIONS */
+  width:200px;
+  height: 200px;
+  float: center;
+ margin-top: -80px;
+border-radius: 20px;
+  /* (B) ANIMATE ZOOM */
+  /* ease | ease-in | ease-out | linear */
+  transition: transform ease-in-out 0.3s;
+}
+ 
+/* (C) ZOOM ON HOVER */
+#zoomC:hover { transform: scale(1.2); }
+#zoomD {
+  /* (A) OPTIONAL DIMENSIONS */
+  width:180px;
+  height: 180px;
+  float: left;
+ margin-top: -80px;
+border-radius: 20px;
+  /* (B) ANIMATE ZOOM */
+  /* ease | ease-in | ease-out | linear */
+  transition: transform ease-in-out 0.3s;
+}
+ 
+/* (C) ZOOM ON HOVER */
+#zoomD:hover { transform: scale(1.2); }
+#zoomE {
+  /* (A) OPTIONAL DIMENSIONS */
+  width:180px;
+  height: 250px;
+  float: left;
+ margin-top: -80px;
+border-radius: 20px;
+  /* (B) ANIMATE ZOOM */
+  /* ease | ease-in | ease-out | linear */
+  transition: transform ease-in-out 0.3s;
+}
+ 
+/* (C) ZOOM ON HOVER */
+#zoomE:hover { transform: scale(1.2); }
+#zoomF {
+  /* (A) OPTIONAL DIMENSIONS */
+  width:120px;
+  height:150px;
+  float: right;
+ margin-top: 80px;
+border-radius: 20px;
+  /* (B) ANIMATE ZOOM */
+  /* ease | ease-in | ease-out | linear */
+  transition: transform ease-in-out 0.3s;
+}
+ 
+/* (C) ZOOM ON HOVER */
+#zoomF:hover { transform: scale(1.2); }
+
+#zoomG {
+  /* (A) OPTIONAL DIMENSIONS */
+  width:180px;
+  height:250px;
+  float: left;
+ margin-top: -80px;
+border-radius: 20px;
+  /* (B) ANIMATE ZOOM */
+  /* ease | ease-in | ease-out | linear */
+  transition: transform ease-in-out 0.3s;
+}
+ 
+/* (C) ZOOM ON HOVER */
+#zoomG:hover { transform: scale(1.2); }
+
+#zoomH {
+  /* (A) OPTIONAL DIMENSIONS */
+  width:180px;
+  height:90px;
+  float: left;
+ margin-top: -80px;
+border-radius: 20px;
+  /* (B) ANIMATE ZOOM */
+  /* ease | ease-in | ease-out | linear */
+  transition: transform ease-in-out 0.3s;
+}
+ 
+/* (C) ZOOM ON HOVER */
+#zoomH:hover { transform: scale(1.2); }
+#zoomI {
+  /* (A) OPTIONAL DIMENSIONS */
+  width:120px;
+  height:110px;
+  float: right;
+ margin-top: 80px;
+border-radius: 20px;
+  /* (B) ANIMATE ZOOM */
+  /* ease | ease-in | ease-out | linear */
+  transition: transform ease-in-out 0.3s;
+}
+ 
+/* (C) ZOOM ON HOVER */
+#zoomI:hover { transform: scale(1.2); }
+#zoomJ {
+  /* (A) OPTIONAL DIMENSIONS */
+  width:250px;
+  height:450px;
+  float: center;
+ margin-top: 80px;
+border-radius: 20px;
+
+  /* (B) ANIMATE ZOOM */
+  /* ease | ease-in | ease-out | linear */
+  transition: transform ease-in-out 0.3s;
+}
+ 
+/* (C) ZOOM ON HOVER */
+#zoomJ:hover { transform: scale(1.2); }
+/*hr{
+	height:100px;
+	width: 1340px;
+	background: black;
+}
+*/

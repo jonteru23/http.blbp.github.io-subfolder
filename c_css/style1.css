@@ -1,0 +1,51 @@
+#img1{
+position: absolute;
+   top: 50px;
+   width:400px;
+   height: 400px;
+   margin-top: 50px; /* Half the height */
+   margin-left: 500px; /* Half the width */
+opacity:0.6;
+}
+#file{
+   width: 500px;
+}
+#img2{
+position: absolute;
+   top: -1050px;
+   width:400px;
+   height: 400px;
+   margin-top: 3620px; /* Half the height */
+   margin-left: -20px; /* Half the width */
+/*opacity:0.6;*/
+ overflow: hidden;
+}
+#aboutdetails{
+
+/*   background: pink;*/
+   color: black;
+   width: 700px;
+   height: 300px;
+   font-size: 20px;
+   margin-left: 380px;
+   margin-top: -130px;
+ /*  border: 5px solid #5072a7;*/
+}
+#missionvision{
+      background: #cfcfc4;
+      opacity: 0.8px;
+   color: black;
+   width: 1200px;
+   height: 780px;
+   font-size: 20px;
+margin-left: -90px;
+   margin-top: 80px;
+ border: 2px solid #5072a7;
+ text-align: justify;
+ text-indent: 20px;
+ margin-bottom: 50px;
+ line-height: 1.8
+}
+p.light {
+  font-weight: lighter;
+}

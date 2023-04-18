@@ -1,0 +1,172 @@
+#project1{
+	width: 200px;
+	height: 150px;
+	background: black;
+	margin-left: -20px;
+}
+#project2{
+	width: 100px;
+	height: 150px;
+	background: black;
+	margin-left: -20px;
+}
+h3{
+color: black;
+float: center;
+}
+h5{
+	font-size: 15px;
+	color: black;
+	margin-left: -20px;
+
+}
+#html{
+
+	width: 250px;
+	height: 200px;
+	background: #d8e4bc;
+	margin-top: -1000px;
+margin-left: 30px;
+border-radius: 5px;
+}
+
+#js{
+
+	width: 250px;
+	height: 200px;
+	background: #d8e4bc;
+	margin-top: -1000px;
+	margin-left: 300px;
+	border-radius: 5px;
+}
+
+
+#py{
+
+	width: 250px;
+	height: 200px;
+	background: #d8e4bc;
+	margin-top: -1000px;
+	margin-left: 600px;border-radius: 5px;
+}
+
+
+#vb{
+
+	width: 250px;
+	height: 200px;
+	background: #d8e4bc;
+	margin-top: -1000px;
+	margin-left: 900px;border-radius: 5px;
+}
+#as1{
+
+	width: 250px;
+	height: 200px;
+	background:#d8e4bc;
+	margin-top: -900px;
+	margin-left: 30px;border-radius: 5px;
+}
+#as2{
+
+	width: 250px;
+	height: 200px;
+	background: #d8e4bc;
+	margin-top: -900px;
+	margin-left: 300px;border-radius: 5px;
+}
+
+
+#ude1{
+
+	width: 250px;
+	height: 200px;
+	background: #d8e4bc;
+	margin-top: -900px;
+	margin-left: 600px;border-radius: 5px;
+}
+
+
+#ude2{
+
+	width: 250px;
+	height: 200px;
+	background: #d8e4bc;
+	margin-top: -900px;
+	margin-left: 900px;border-radius: 5px;
+}
+
+
+#ms1{
+
+	width: 250px;
+	height: 200px;
+	background: #d8e4bc;
+	margin-top: -800px;
+	margin-left: 30px;border-radius: 5px;
+}
+#ms2{
+
+	width: 250px;
+	height: 200px;
+	background: #d8e4bc;
+	margin-top: -800px;
+	margin-left: 300px;border-radius: 5px;
+}
+
+
+#ms3{
+
+	width: 250px;
+	height: 200px;
+	background:#d8e4bc;
+	margin-top: -800px;
+	margin-left: 600px;
+	border-radius: 5px;
+}
+
+#ms4{
+
+	width: 250px;
+	height: 200px;
+	background: #d8e4bc;
+	margin-top: -800px;
+	margin-left: 900px;border-radius: 5px;
+}
+
+
+#Web-Development{
+margin-top: 0px;
+margin-left: 50px;
+width: 350px;
+height: 500px;
+background: rgba(245,245,245, 0.5);
+color: black;
+text-align: justify-all;
+border-radius: 10px;
+}
+#Mobile-Development{
+margin-top: -500px;
+margin-left: 425px;
+width: 350px;
+height: 500px;
+background: rgba(245,245,245, 0.5);
+backdrop-filter: 0.5;
+color: black;
+text-align: justify-all;
+border-radius: 10px;
+}
+#Multimedia{
+margin-top: -500px;
+margin-left: 800px;
+width: 350px;
+height: 500px;
+background: rgba(245,245,245, 0.5);
+color: black;
+text-align: justify-all;
+border-radius: 10px;
+}
+p{
+	margin-left: 10px;
+	margin-right: 10px;
+}
